@@ -3,5 +3,5 @@
 - 👀 Driven by Front-End Development and the art of UX/UI Design.
 - 👾 I have a passion for crafting pixel-perfect designs.
 - 🏄🏻‍♂️ I'm diving into the world of React, expanding my skills and knowledge.
-- 🌐 Check out <a href="http://example.com" target="_blank">Link Text</a> to see some of my past projects.
+- 🌐 Check out [my portfolio](https://victorbotan.com) to see some of my past projects.
 - 📫 hi.victorb@gmail.com
