@@ -4,4 +4,4 @@
 - 👾 I have a passion for crafting pixel-perfect designs.
 - 🏄🏻‍♂️ I'm diving into the world of React, expanding my skills and knowledge.
 - 🌐 Check out [my portfolio](https://victorbotan.com) to see some of my past projects.
-- 📫 hi.victorb@gmail.com
+- 📫 Feel free to reach out to me hi.victorb@gmail.com for any collaboration or project opportunities.
