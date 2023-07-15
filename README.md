@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Victor
-- 👨🏻‍🎓 Currently student at University of Limerick
+- 👨🏻‍🎓 Student at University of Limerick
 - 👀 Driven by Front-End Development and the art of UX/UI Design.
-- 👾 I have a passion for crafting pixel-perfect designs.
-- 🏄🏻‍♂️ I'm diving into the world of React, expanding my skills and knowledge.
+- 👾 Passion for crafting pixel-perfect designs.
+- 🏄🏻‍♂️ Expanding my skills and knowledge of React.
 - 🌐 Check out [my portfolio](https://victorbotan.com) to see some of my past projects.
 - 📫 Feel free to reach out to me at hi.victorb@gmail.com for any collaboration or project opportunities.
