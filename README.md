@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Victor
 - 👨🏻‍🎓 Currently student at University of Limerick
-- 👀 I’m interested in Front-End Development and UX/UI Design
-- 🌱 I’m currently learning React
+- 👀 Driven by Front-End Development and the art of UX/UI Design.
+- 🏄🏻‍♂️ I'm diving into the world of React, expanding my skills and knowledge.
 - 📫 hi.victorb@gmail.com
